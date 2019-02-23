@@ -1,0 +1,100 @@
+body{
+    background-color: #f1f1f1;
+}
+.ui.secondary.menu {
+    background-color: #050507 !important;
+}
+.logoKoompi{
+    margin: 4px auto 0 auto;
+}
+.costomSize{
+    height: 100%;
+    background-color: white;
+}
+#marginTop {
+    margin-top: 3%;
+    background: black;
+    height: 5px;
+}
+.bgTitle{
+
+}
+#bigTitle {
+    padding: 4% 0px;
+}
+#bigTitle h1 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 39px;
+    color: #000000;
+    text-transform: none;
+    text-decoration: none;
+    display: block;
+
+}
+img.ui.fluid.image {
+    width: 80%;
+}
+ul {
+    list-style-type: none;
+    width: 70%;
+}
+h3.page_title {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 30px;
+    color: #000000;
+    margin-bottom: 16px;
+    letter-spacing: -0.2px;
+}
+h4.page_sub_title {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    color: #000000;}
+center p{
+    padding: 0px 10%;
+    text-align: left;
+    font-size: medium;
+}
+
+/* foooter*/
+.footerBack {
+    background-color: #cfd8dd;
+    padding: 60px;
+    margin-top: 40px;
+    
+}
+/* .smallworldLogo {
+    padding-top: 3%;
+} */
+.footerBack p{
+    text-align: center;
+    color: #585858;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 100;
+}
+.brainchild {
+    margin-top: -15px;
+}  
+
+#ftTitlecolor  {
+    color: #585858;
+}
+.fa-facebook-f {
+    background-color: #90a4ae !important;
+    padding: 15px 18px;
+    border-radius: 50%;
+    margin-left: 10px;
+    color: #fff;
+}
+.socailMedia {
+    background-color: #90a4ae !important;
+    padding: 15px 15px;
+    border-radius: 50%;
+    margin-left: 10px;
+    color: #fff;
+}
