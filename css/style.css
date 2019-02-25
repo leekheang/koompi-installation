@@ -6,6 +6,7 @@ body{
 }
 .logoKoompi{
     margin: 4px auto 0 auto;
+    padding: 20px;
 }
 .costomSize{
     height: 100%;
@@ -98,3 +99,35 @@ center p{
     margin-left: 10px;
     color: #fff;
 }
+
+.loading{
+    border: 16px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 16px solid #000000;
+    border-bottom: 16px solid #000000;
+    width: 120px;
+    height: 120px;
+    position: relative;
+    left: 45%;
+    top: 45%;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+}
+.footerBack{
+    text-align: center
+}
+#backLoading{
+    background-color: #333;
+    position: fixed;
+    height: 100%;
+    top: 0;
+    overflow: hidden;
+    width: 100%;
+    display: block;
+    z-index: 100;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
