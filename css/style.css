@@ -1,5 +1,7 @@
+/* @import "https://use.fontawesome.com/releases/v5.7.2/css/all.css"; */
+
 body{
-    background-color: #f1f1f1;
+    background-color: #e4e4e4 !important ;
 }
 .ui.secondary.menu {
     background-color: #050507 !important;
@@ -87,14 +89,15 @@ center p{
 }
 .fa-facebook-f {
     background-color: #90a4ae !important;
-    padding: 15px 18px;
+    padding: 15.5px 21px;
     border-radius: 50%;
     margin-left: 10px;
     color: #fff;
 }
+
 .socailMedia {
     background-color: #90a4ae !important;
-    padding: 15px 15px;
+    padding: 15px 18px;
     border-radius: 50%;
     margin-left: 10px;
     color: #fff;
